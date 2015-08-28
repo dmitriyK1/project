@@ -1,0 +1,12 @@
+[
+	{
+		"title": "another app #1",
+		"img": "images/works1.png",
+		"type": "app"
+	}, 
+	{
+		"title": "another app #2",
+		"img": "images/works4.png",
+		"type": "web"
+	}
+]
